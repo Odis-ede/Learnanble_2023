@@ -1,0 +1,105 @@
+*{
+      background-color: #ffffff;
+      margin: 0;
+      padding: 0;
+      text-decoration: none;
+      list-style-type: none;
+      font-family: "Poppins", san-serif;
+}
+.logo{
+       position: absolute; 
+       top: 39px;
+       left: 109px;
+       width: 318px;
+       height: 72px;
+       color: black;
+       font-weight: 400;
+       font-size: 48px;
+       line-height: 72px;  
+}
+.navbar{
+      display: flex;
+      justify-content: space-between;
+      padding: 40px;
+      color: black;
+      size: 24px;
+      font-weight: 400;
+      line-height: 36px;
+
+}
+.nav-container{
+      display: flex;
+      align-items: center;
+}
+.nav-container nav ul{
+      display: flex;
+}
+.nav-container nav li {
+      margin-right: 60px;
+}
+.nav-container a{
+     color: black;
+}
+
+.button{
+      background-color: orangered;
+      padding: 30px, 30px;
+      color: orangered;
+      border-radius: 5px;
+}
+.her0{
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+}
+.hero-left{
+      position: absolute; 
+       top: 407px;
+       left: 100px;
+       width: 374px;
+       height: 45px;
+       color: rgb(0, 255, 255);
+       font-size: 24px;
+       font-weight: 600;
+       font-size: 30px;
+       line-height: 45px;  
+}
+.hero-left h3{
+      position: absolute;
+       top: 120px;
+       left: 100px;
+       width: 375;
+       height: 230px;
+       color: black;
+       font-size: 48px;
+       font-weight: 300;
+       line-height: 72px;
+       letter-spacing: 10%;
+}
+.btns-button{
+     background-color: orangered;
+     margin-left: 100px;
+     padding: 30px, 30px;
+     color: orangered;
+     border-radius: 5px;
+}
+.btns a{
+      position: absolute; 
+      top: 190px;
+      left: 100x;
+      width: 102px;
+      height: 36px;
+      color: black;
+      font-size: 24px;
+      font-weight: 500;
+      line-height: 36px; 
+}
+.right-top .rtop-img{
+      width: 80%;
+      margin-left:1200px;
+}
+.hero-right{
+      width: 50%;
+      padding: 40px;
+      margin
+}
